@@ -1,0 +1,9 @@
+td {
+	width: 90px;
+	border-bottom: 1px solid lightgray;
+	text-align: center;
+}
+
+th {
+	border-bottom: 2px solid black;
+}
